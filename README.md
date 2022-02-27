@@ -4,7 +4,7 @@ AWS pipeline that builds & deploys .Net container images into AWS Lambda. Comple
 
 ### Pipeline Architecture 
 Attached image to showcase the pipeline working. 
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width=640>
+<img src="https://raw.githubusercontent.com/kapooky/Upwork-Lambda-Rds-Docs/blob/main/cloudformation-parameters.png" width=640>
 
 
 ### Files Overview
