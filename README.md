@@ -1,4 +1,4 @@
-# Aurora-EFS-Lambda Multi-Enviroment CI/CD Pipeline
+# Lambda-Aurora-EFS Production CI/CD Pipeline
 Documention will soon be added. 
 
 This project outlines a multi-enviroment CI/CD pipeline that builds & deploys .Net containers images into AWS Lambda.
